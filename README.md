@@ -1,4 +1,4 @@
-# Siakad SMK
+# Siakad Sekolah
 
 ## Setup Project 
 
